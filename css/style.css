@@ -36,7 +36,7 @@ h1 {
 }
 
 h1 span {
-	background: #baff00;
+	background: #ffaa01;
 	padding: 0 10px;
 	color: #222222;
 	display: inline-block;
@@ -93,7 +93,7 @@ ol {
 }
 
 .sp-title span {
-	background: #baff00;
+	background: #ffaa01;
 	padding: 0 10px;
 	color: #222222;
 	display: inline-block;
@@ -130,7 +130,7 @@ ol {
 .section-title h1,
 .section-title h2 {
 	display: inline-block;
-	background: #baff00;
+	background: #ffaa01;
 	padding: 0 20px;
 	margin-bottom: 0;
 	font-size: 60px;
